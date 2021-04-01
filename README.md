@@ -10,7 +10,7 @@ An API Endpoint + Web Query UI for SLPDB
 This project contains:
 
 1. SLPDB Microservice API Endpoint: An HTTP API Endpoint to your SLPDB
-2. SLPDB Query Web UI: As seen in [https://slpdb.fountainhead.cash/explorer](https://slpdb.fountainhead.cash/explorer)
+2. SLPDB Query Web UI: As seen in [https://slpdb.electroncash.de/explorer](https://slpdb.electroncash.de/explorer)
 
 ## 1. SLPDB Microservice API Endpoint
 
@@ -38,7 +38,7 @@ You must have the following installed.
 Step 1. Clone this repository
 
 ```
-git clone https://github.com/fountainhead-cash/slpserve.git
+git clone https://github.com/georgengelmann/slpserve.git
 ```
 
 Step 2. Install Dependencies
